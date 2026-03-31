@@ -1,0 +1,22 @@
+ForestGuard Educational Material License
+
+Copyright (c) 2026 ForestGuard Authors.
+All rights reserved.
+
+1. Scope
+This repository is a sanitized distribution for documentation, structure, and non-assessable assets.
+Assessable implementation source code has been removed or replaced with pseudocode placeholders.
+
+2. Restrictions
+You may not copy, redistribute, publish, or adapt withheld assessable implementation content for coursework,
+teaching materials, answer keys, or assessment preparation.
+
+3. No Open-Source Grant
+No open-source license is granted for assessable implementation components.
+All rights to those components are reserved.
+
+4. Authorized Access
+Access to full implementation is limited to authorized teaching staff and approved internal repositories.
+
+5. Disclaimer
+Materials are provided "as is", without warranties of any kind, express or implied.
